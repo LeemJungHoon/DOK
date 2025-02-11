@@ -31,10 +31,6 @@
 
 ![Untitled](https://github.com/pado0711/DokProject-backend/assets/109504714/8dab7335-df7a-475b-aabd-71e9bab420cd)
 
-### 3. 프로젝트 기간
-
-#### 2023/11/06 ~ 2024/01/22
-
 <br/>
 <br/>
 
